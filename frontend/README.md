@@ -9,7 +9,7 @@ proyecto de ventas donde tenemos un formulario de registro y un formulario de lo
  frontend:
  desarrollamos diferentes componetes:
   - header
-  - main
+  - inicio
   - card
   - preloader
   - footer
