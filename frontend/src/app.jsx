@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './componets/Header/header'
 import Inicio from './componets/Inicio/inicio'
 import Servicios from './componets/Servicios/Servicios'
+import Aboutme from './componets/AboutMe/Aboutme'
 
 
 import { useState } from 'react'
@@ -16,6 +17,7 @@ export default function App() {
     <main >
      <Inicio />
      <Servicios />
+     <Aboutme />
 
 
 

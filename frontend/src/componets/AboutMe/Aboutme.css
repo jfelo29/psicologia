@@ -1,0 +1,139 @@
+.aboutme {
+ margin-top: 50px ;
+justify-content: center;
+align-items: center;
+margin-top: 30px ;
+margin: auto;
+background-color: rgb(224, 252, 252);
+
+gap: 20px;
+
+
+}
+
+.aboutme__container {
+
+ display: flex;
+ justify-content: center;
+flex-direction: row;
+ align-items: center;
+ padding: 16px;
+background-color: rgb(224, 252, 252);
+ margin-top: 5px;
+ margin-bottom: 20px;
+
+ 
+}
+
+.aboutme__image {
+ margin-left: 200px;
+
+}
+.aboutme__image-profile {
+ width: 400px;
+ height: 300px;
+ border-radius: 20px;
+ object-fit: cover;
+ 
+}
+.aboutme__text {
+ display: flex;
+flex-direction: column;
+
+ 
+ margin-top: 20px;
+ max-width: 550px;
+ margin: auto;
+}
+
+.aboutme__title {
+ justify-content: center;
+ font-size: 25px;
+
+ font-weight: bold;
+ margin: 5px;
+ 
+}
+
+.aboutme__text-paragraph {
+ font-size: 15px;
+ margin-top: 10px;
+ gap: 20px;
+ max-width: 450px;
+ 
+}
+
+.aboutme__title-academy {
+ font-size: 20px;
+ font-weight: bold;
+ margin-top: 20px;
+}
+
+.aboutme__text-item {
+ font-size: 15px;
+ margin-top: 10px;
+ 
+}
+
+.aboutme__title-specifications {
+ font-size: 20px;
+ font-weight: bold;
+ justify-content: center;
+ 
+ gap: 50px;
+}
+
+.aboutme__especifications {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ 
+ 
+ 
+ 
+  
+  
+  
+} 
+.aboutme__text-specification {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ margin-top: 10px;
+align-items: start;
+ border-radius: 15px;
+ flex-direction: row;
+
+
+ 
+
+ 
+}
+.aboutme__specification-item {
+
+ margin: auto;
+ font-size: 13px;
+ margin-top: 10px;
+ align-items: start; /*no me lo toma*/
+ 
+ border-color: black; /*no me lo toma*/
+ 
+ 
+ 
+}
+.aboutme__filosofia{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ background-color: white;
+ margin-top: 20px;
+ margin-left: 100px;
+ margin-right: 100px;
+ margin-bottom: 100px;
+ padding-top: 20px;
+
+}
+.aboutme__filosofia-paragraph {
+ font-size: 15px;
+ margin-top: 10px;
+ max-width: 700px;
+}
